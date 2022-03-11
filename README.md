@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahmid</h1>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F617274692657230565%2F&psig=AOvVaw1sebA9Ivtugtf28Hb6J0xH&ust=1647112679147000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiNpe7ivvYCFQAAAAAdAAAAABAI" alt="tahmidz68" /> </p>
 <h3 align="center">A passionate frontend developer and machine learning student from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmidz68&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidz68" /> </p>
